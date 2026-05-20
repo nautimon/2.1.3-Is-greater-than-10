@@ -1,0 +1,1 @@
+Given an integer, `num`, print `true` to the console if `num` is greater than 10, otherwise print `false`.
